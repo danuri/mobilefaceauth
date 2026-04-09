@@ -1,4 +1,5 @@
-<a href="https://orcid.org/0009-0002-1084-6002" aria-label="View ORCID record - 0009-0002-1084-6002"> <img src="/ORCID-iD_icon-vector.svg" alt="ORCID iD"/>https://orcid.org/0009-0002-1084-6002</a>
+<a href="https://orcid.org/0009-0002-1084-6002" aria-label="View ORCID record - 0009-0002-1084-6002"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0009-0002-1084-6002</a>
+
 
 # 🤳 Face ID Attendance App
 

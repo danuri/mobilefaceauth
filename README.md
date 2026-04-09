@@ -1,3 +1,5 @@
+<a href="https://orcid.org/0009-0002-1084-6002" aria-label="View ORCID record - 0009-0002-1084-6002"> <img src="/ORCID-iD_icon-vector.svg" alt="ORCID iD"/>https://orcid.org/0009-0002-1084-6002</a>
+
 # 🤳 Face ID Attendance App
 
 Aplikasi presensi berbasis pengenalan wajah menggunakan **React Native**, **Expo**, dan model **MobileFaceNet** (TFLite). Aplikasi ini memungkinkan pendaftaran wajah "Master" dan melakukan verifikasi real-time untuk mencocokkan wajah yang tertangkap kamera dengan data yang sudah tersimpan.

@@ -1,6 +1,6 @@
-# 🤳 Face ID Attendance App
+# 🤳 Face Embedding Verification
 
-Aplikasi presensi berbasis pengenalan wajah menggunakan **React Native**, **Expo**, dan model **MobileFaceNet** (TFLite). Aplikasi ini memungkinkan pendaftaran wajah "Master" dan melakukan verifikasi real-time untuk mencocokkan wajah yang tertangkap kamera dengan data yang sudah tersimpan.
+Aplikasi berbasis pengenalan wajah menggunakan **React Native**, **Expo**, dan model **MobileFaceNet** (TFLite). Aplikasi ini memungkinkan pendaftaran wajah "Master" dan melakukan verifikasi real-time untuk mencocokkan wajah yang tertangkap kamera dengan data yang sudah tersimpan.
 
 ---
 

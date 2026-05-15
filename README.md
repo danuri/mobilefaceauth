@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 # 🤳 Face Embedding Verification
+=======
+<a href="https://orcid.org/0009-0002-1084-6002" aria-label="View ORCID record - 0009-0002-1084-6002"> <img src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;" alt="ORCID iD icon">https://orcid.org/0009-0002-1084-6002</a>
+
+
+# 🤳 Face ID Attendance App
+>>>>>>> 9cce10973c51f2cfbdcf282c82df350f4b78ca41
 
 Aplikasi berbasis pengenalan wajah menggunakan **React Native**, **Expo**, dan model **MobileFaceNet** (TFLite). Aplikasi ini memungkinkan pendaftaran wajah "Master" dan melakukan verifikasi real-time untuk mencocokkan wajah yang tertangkap kamera dengan data yang sudah tersimpan.
 
